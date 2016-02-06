@@ -3,11 +3,11 @@
 A calculator that evaluates an expression, stored as a Null terminated ASCII string in memory.
 The following operators are valid in the expression.
 
-+ Addition
+++ Addition
 
-- Subtraction
+-- Subtraction
 
-* Multiplication
+** Multiplication
 
 / Division
 
